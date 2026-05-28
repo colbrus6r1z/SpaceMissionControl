@@ -1,0 +1,14 @@
+.button
+{
+    width: 100px;
+    height: 40px;
+    margin-right: 10px;
+    color: white;
+    border: 2px dashed #8a1dd3;
+    background-color: transparent;
+}
+
+.button:last-child
+{
+    margin-right: 0;
+}

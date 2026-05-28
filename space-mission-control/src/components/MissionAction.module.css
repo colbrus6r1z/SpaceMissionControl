@@ -1,0 +1,18 @@
+.button
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 10px;
+    color: white;
+    border: 2px dashed #1dd34b;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.button:last-child
+{
+    margin-right: 0;
+}
